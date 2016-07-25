@@ -42,6 +42,8 @@ import org.springframework.test.context.web.WebAppConfiguration;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 
+import com.calypso.SampleWebUiApplication;
+
 /**
  * Basic integration tests for demo application.
  *

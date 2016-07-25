@@ -11,12 +11,12 @@
 
     <!-- logger name="org.springframework" level="DEBUG"/-->
 
-    <logger name="sample.ui.aop" level="FINE"/>
-    <logger name="sample.ui.web.GeneralController" level="FINE"/>
+    <logger name="com.calypso.aop" level="FINE"/>
+    <logger name="com.calypso.web.GeneralController" level="FINE"/>
 
     <logger name="org.springframework.webflow" level="FINE"/>
-    <logger name="sample.ui.config.WebFlowConfig" level="FINE"/>
-    <logger name="sample.ui.service" level="FINE"/>
+    <logger name="com.calypso.config.WebFlowConfig" level="FINE"/>
+    <logger name="com.calypso.service" level="FINE"/>
     <!-- <logger name="org.springframework.security" level="FINE"/> -->
     <!-- <logger name="org.springframework.security" level="FINE"/> -->
     <!-- <logger name="org.hibernate.tool.hbm2ddl.SchemaExport" level="FINE"/> -->
